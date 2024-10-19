@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Acer\\Desktop\\magistry2course\\1semester\\VR_AR\\laba3AR\\My project\\Assets\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Acer\\Desktop\\magistry2course\\1semester\\VR_AR\\laba3AR\\My project\\Assets\\Starter Package\\CarBehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Starter Package\\CarBehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Acer\\Desktop\\magistry2course\\1semester\\VR_AR\\laba3AR\\My project\\Assets\\Starter Package\\ReticleBehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Starter Package\\ReticleBehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Acer\\Desktop\\magistry2course\\1semester\\VR_AR\\laba3AR\\My project\\Assets\\Starter Package\\PackageSpawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Starter Package\\PackageSpawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Acer\\Desktop\\magistry2course\\1semester\\VR_AR\\laba3AR\\My project\\Assets\\Starter Package\\PackageBehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Starter Package\\PackageBehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Acer\\Desktop\\magistry2course\\1semester\\VR_AR\\laba3AR\\My project\\Assets\\Starter Package\\LightEstimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Starter Package\\LightEstimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PackageSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\magistry2course\\1semester\\VR_AR\\laba3AR\\My project\\Assets\\Starter Package\\PackageSpawner.cs",
+              "RelativeDocumentMoniker": "Starter Package\\PackageSpawner.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\magistry2course\\1semester\\VR_AR\\laba3AR\\My project\\Assets\\Starter Package\\PackageSpawner.cs",
+              "RelativeToolTip": "Starter Package\\PackageSpawner.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T17:45:06.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PackageBehaviour.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\magistry2course\\1semester\\VR_AR\\laba3AR\\My project\\Assets\\Starter Package\\PackageBehaviour.cs",
+              "RelativeDocumentMoniker": "Starter Package\\PackageBehaviour.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\magistry2course\\1semester\\VR_AR\\laba3AR\\My project\\Assets\\Starter Package\\PackageBehaviour.cs",
+              "RelativeToolTip": "Starter Package\\PackageBehaviour.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T17:45:02.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarBehaviour.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\magistry2course\\1semester\\VR_AR\\laba3AR\\My project\\Assets\\Starter Package\\CarBehaviour.cs",
+              "RelativeDocumentMoniker": "Starter Package\\CarBehaviour.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\magistry2course\\1semester\\VR_AR\\laba3AR\\My project\\Assets\\Starter Package\\CarBehaviour.cs",
+              "RelativeToolTip": "Starter Package\\CarBehaviour.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAC0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T17:44:22.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LightEstimation.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\magistry2course\\1semester\\VR_AR\\laba3AR\\My project\\Assets\\Starter Package\\LightEstimation.cs",
+              "RelativeDocumentMoniker": "Starter Package\\LightEstimation.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\magistry2course\\1semester\\VR_AR\\laba3AR\\My project\\Assets\\Starter Package\\LightEstimation.cs",
+              "RelativeToolTip": "Starter Package\\LightEstimation.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAowDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T17:28:24.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReticleBehaviour.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\magistry2course\\1semester\\VR_AR\\laba3AR\\My project\\Assets\\Starter Package\\ReticleBehaviour.cs",
+              "RelativeDocumentMoniker": "Starter Package\\ReticleBehaviour.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\magistry2course\\1semester\\VR_AR\\laba3AR\\My project\\Assets\\Starter Package\\ReticleBehaviour.cs",
+              "RelativeToolTip": "Starter Package\\ReticleBehaviour.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T15:00:19.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
